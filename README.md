@@ -28,4 +28,4 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Cybordreddy/django-todo-app.git
+   git clone https://github.com/Cyborgreddy/todo_list.git
